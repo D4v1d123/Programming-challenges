@@ -1,8 +1,8 @@
 # Create a program that counts how many times is repeated each word
 # and show the final count of all of them.
-# - Puntuation marks are not part of the word.
+# - Punctuation marks are not part of the word.
 # - A word is the same even it appear in upper and lower case.
-# - You can not use lenguage own functions that resolve it automatically.
+# - You can not use language own functions that resolve it automatically.
 
 from re import sub
 
